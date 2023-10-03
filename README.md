@@ -1,4 +1,5 @@
 # Node.js
+js means javascript
 
 Node.js is an open-source, cross-platform JavaScript runtime environment.
 
